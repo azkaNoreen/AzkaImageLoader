@@ -1,4 +1,5 @@
-"# AzkaImageLoader" 
+# AzkaImageLoader
+</br>
 An Android app for opening gallery and loading file in the app using GLIDE library.
 </br>
 <bold>See screenshot for better understanding</bold>
